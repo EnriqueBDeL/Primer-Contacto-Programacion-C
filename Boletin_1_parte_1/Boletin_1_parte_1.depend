@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1706295316 source:c:\users\enriq\desktop\2º cuatrimestre\programación ii\boletin_1_parte_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713795579 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\boletin_1_parte_1\main.c
+	"Cabecera.h"
+	"Menu.h"
+	"auto.h"
+
+1710703683 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\boletin_1_parte_1\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1710703718 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\boletin_1_parte_1\menu.h
+
+1710612815 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\boletin_1_parte_1\auto_ciclistas.c
+
+1710617320 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\boletin_1_parte_1\auto.c
+	"auto.h"
+
+1710703718 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\boletin_1_parte_1\auto.h
+	"cabecera.h"
+
