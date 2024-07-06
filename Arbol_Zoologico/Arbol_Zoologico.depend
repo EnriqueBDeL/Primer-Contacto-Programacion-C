@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1718982184 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_zoologico\menu.c
+	"Header.h"
+
+1718982571 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_zoologico\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718982764 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_zoologico\main.c
+	"Header.h"
+
+1718982586 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_zoologico\opciones_menu.c
+	"Header.h"
+
