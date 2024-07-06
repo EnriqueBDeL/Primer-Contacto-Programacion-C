@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715681496 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\cola telefonos\menu.c
+	"Header.h"
+
+1715684491 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\cola telefonos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715684491 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\cola telefonos\main.c
+	"Header.h"
+
+1715684512 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\cola telefonos\opciones_menu.c
+	"Header.h"
+
