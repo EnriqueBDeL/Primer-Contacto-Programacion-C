@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715674956 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_control_sequias\menu.c
+	"Header.h"
+
+1715677923 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_control_sequias\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715679367 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_control_sequias\main.c
+	"Header.h"
+
+1715677794 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_control_sequias\opciones_menu.c
+	"Header.h"
+
