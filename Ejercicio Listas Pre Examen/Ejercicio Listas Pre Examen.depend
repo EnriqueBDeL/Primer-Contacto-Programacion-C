@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1715622198 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ejercicio listas pre examen\main.c
+	"Header.h"
+
+1715621945 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ejercicio listas pre examen\header.h
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<string.h>
+
+1715620421 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ejercicio listas pre examen\menu.c
+	"Header.h"
+
+1715622101 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ejercicio listas pre examen\opciones_menu.c
+	"Header.h"
+
