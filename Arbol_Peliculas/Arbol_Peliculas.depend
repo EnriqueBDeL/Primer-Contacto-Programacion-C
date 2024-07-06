@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1718968841 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_peliculas\menu.c
+	"Header.h"
+
+1718969806 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_peliculas\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718969806 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_peliculas\main.c
+	"Header.h"
+
+1718969766 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_peliculas\opcines_menu.c
+	"Header.h"
+
