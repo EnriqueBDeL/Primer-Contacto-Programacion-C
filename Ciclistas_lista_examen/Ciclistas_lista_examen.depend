@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1719214943 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ciclistas_lista_examen\main.c
+	"Header.h"
+
+1719214943 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ciclistas_lista_examen\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719214943 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ciclistas_lista_examen\menu.c
+	"Header.h"
+
+1719214943 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ciclistas_lista_examen\opciones_menu.c
+	"Header.h"
+
