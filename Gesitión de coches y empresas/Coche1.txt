@@ -1,0 +1,3 @@
+ABC123
+Toyota Corolla
+20000.50

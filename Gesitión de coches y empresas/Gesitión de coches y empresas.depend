@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710194355 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\gesitión de coches y empresas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
