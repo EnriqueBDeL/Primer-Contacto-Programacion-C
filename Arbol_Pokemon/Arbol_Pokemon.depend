@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1719068552 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_pokemon\main.c
+	"Header.h"
+
+1719068337 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_pokemon\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719068638 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_pokemon\opciones_menu.c
+	"Header.h"
+
+1719067541 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_pokemon\menu.c
+	"Header.h"
+
