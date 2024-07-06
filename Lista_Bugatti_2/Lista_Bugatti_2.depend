@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1719163078 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\lista_bugatti_2\menu.c
+	"Header.h"
+
+1719163109 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\lista_bugatti_2\header.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1719163228 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\lista_bugatti_2\main.c
+	"Header.h"
+
+1719163006 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\lista_bugatti_2\opciones_menu.c
+	"Header.h"
+
