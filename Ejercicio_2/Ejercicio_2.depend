@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715788867 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ejercicio_2\main.c
+	"Header.h"
+
+1715789556 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ejercicio_2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1716281086 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ejercicio_2\opciones_menu.c
+	"Header.h"
+
+1716281086 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\ejercicio_2\menu.c
+	"Header.h"
+
