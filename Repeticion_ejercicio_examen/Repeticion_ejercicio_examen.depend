@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1718984579 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\repeticion_ejercicio_examen\menu.c
+	"Header.h"
+
+1718985830 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\repeticion_ejercicio_examen\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718985720 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\repeticion_ejercicio_examen\opciones_menu.c
+	"Header.h"
+
+1718985860 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\repeticion_ejercicio_examen\main.c
+	"Header.h"
+
