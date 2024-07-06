@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1719246772 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\pila_superheroes\main.c
+	"Header.h"
+
+1719246594 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\pila_superheroes\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719226351 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\pila_superheroes\menu.c
+	"Header.h"
+
+1719247378 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\pila_superheroes\opciones_menu.c
+	"Header.h"
+
