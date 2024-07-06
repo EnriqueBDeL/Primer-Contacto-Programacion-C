@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1719265598 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\lista_canciones\main.c
+	"Header.h"
+
+1719265571 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\lista_canciones\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719253046 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\lista_canciones\menu.c
+	<stdlib.h>
+
+1719265588 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\lista_canciones\opciones_menu.c
+	"Header.h"
+
