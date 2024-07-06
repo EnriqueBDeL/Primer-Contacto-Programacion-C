@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1719251844 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\colas_monumentos\main.c
+	"Header.h"
+
+1719251844 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\colas_monumentos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719251844 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\colas_monumentos\opciones_menu.c
+	"Header.h"
+
+1719249050 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\colas_monumentos\menu.c
+	"Header.h"
+
