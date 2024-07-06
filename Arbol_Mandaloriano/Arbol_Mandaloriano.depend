@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1718963532 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_mandaloriano\main.c
+	"Header.h"
+
+1718963559 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_mandaloriano\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718962614 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_mandaloriano\menu.c
+	"Header.h"
+
+1718963985 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol_mandaloriano\opciones_menu.c
+	"Header.h"
+
