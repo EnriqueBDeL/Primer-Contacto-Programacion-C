@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Enunciado: Dados el siguiente conjunto de números W = {11,13,24,7}, encontrar todos los
+// subconjuntos de W que sumen 31
+
+
 #define N 4
 #define MAX_SOLUCIONES 100
 
