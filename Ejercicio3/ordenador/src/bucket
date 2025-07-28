@@ -1,0 +1,11 @@
+#include "bucket."
+
+bucket::bucket()
+{
+    //ctor
+}
+
+bucket::~bucket()
+{
+    //dtor
+}

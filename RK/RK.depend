@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1751318628 source:c:\users\enriq\desktop\algoritmia\a boletin recuperacion\rk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

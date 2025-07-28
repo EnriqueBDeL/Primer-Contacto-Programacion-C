@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1751062726 source:c:\users\enriq\desktop\algoritmia\a boletin recuperacion\ej2\bt.c
+	"header.h"
+
+1751062726 c:\users\enriq\desktop\algoritmia\a boletin recuperacion\ej2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1751186205 source:c:\users\enriq\desktop\algoritmia\a boletin recuperacion\ej2\main.c
+	"header.h"
+

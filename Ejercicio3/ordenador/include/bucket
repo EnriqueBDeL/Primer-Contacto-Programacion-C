@@ -1,0 +1,16 @@
+#ifndef BUCKET_
+#define BUCKET_
+
+
+class bucket
+{
+    public:
+        bucket();
+        virtual ~bucket();
+
+    protected:
+
+    private:
+};
+
+#endif // BUCKET_
