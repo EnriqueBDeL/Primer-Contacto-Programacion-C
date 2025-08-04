@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732553303 source:c:\users\enriq\desktop\algoritmia\prueba_simple\main.c
+	<stdio.h>
+	<stdbool.h>
+
