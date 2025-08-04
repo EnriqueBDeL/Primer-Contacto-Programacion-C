@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728836581 source:c:\users\enriq\desktop\algoritmia\ej 5 bol 1 repaso\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
