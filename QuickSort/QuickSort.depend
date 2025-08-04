@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1735923524 source:c:\users\enriq\desktop\algoritmia\quicksort\main.c
+	"Header.h"
+
+1735898532 c:\users\enriq\desktop\algoritmia\quicksort\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1735921549 source:c:\users\enriq\desktop\algoritmia\quicksort\qs.c
+	"Header.h"
+
