@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750097473 source:c:\users\enriq\desktop\algoritmia\problema de decisión\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
