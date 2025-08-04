@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1735755610 source:c:\users\enriq\desktop\algoritmia\metodoshell\main.c
+	"Header.h"
+
+1735923220 c:\users\enriq\desktop\algoritmia\metodoshell\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1735923203 source:c:\users\enriq\desktop\algoritmia\metodoshell\ms.c
+	"Header.h"
+
