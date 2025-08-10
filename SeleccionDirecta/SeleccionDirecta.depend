@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1735642495 source:c:\users\enriq\desktop\algoritmia\selecciondirecta\algoritmo.c
+	"Header.h"
+
+1735646095 c:\users\enriq\desktop\algoritmia\selecciondirecta\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1735646095 source:c:\users\enriq\desktop\algoritmia\selecciondirecta\main.c
+	"Header.h"
+
